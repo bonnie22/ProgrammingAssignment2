@@ -1,11 +1,11 @@
 ## Program by Boniface Muganda
 
-## This program gets input as a matrix and caalculates the inverse of the matrix
+## This program gets input as a matrix and calculates the inverse of the matrix
 ## The calculated inverse matrix is cached into the program memory. Next time it
 ## encounters the same matrix, it retrieves the stored inverse
 
 ## Function Cache Matrix
-## This function creates a special matrix which is a list containing the functions t0
+## This function creates a special matrix which is a list containing the functions to
 ## 1. Get the value of the matrix
 ## 2. Set the value of the matrix
 ## 3. Get the value of the inverse
